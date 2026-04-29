@@ -2,7 +2,7 @@
 
 
 ### Modem
-I implemented the basic decoder for the wav files provided (48kHz, 160 samples per bit, etc.). This task wasn't particularly difficult, the assinment explained everything, I just needed to write the code. I didn't implement any of the extras.
+I implemented the basic decoder for the wav files provided (48kHz, 160 samples per bit, etc.). This task wasn't particularly difficult, the assinment explained everything. I just needed to write the code. I didn't implement any of the extras.
 
 
 #### Building
