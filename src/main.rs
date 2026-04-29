@@ -1,4 +1,6 @@
-
+// Kostya Leshenko
+// CS416P
+// Homework #2
 
 use colored::Colorize;
 use std::env;
